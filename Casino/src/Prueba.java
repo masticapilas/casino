@@ -13,6 +13,8 @@ import java.util.*;
 public class Prueba {
     // Clase pa pruebas
     
+    public void cosa2(){
+    }
     public void cosa(){
         
     }
