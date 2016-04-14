@@ -24,6 +24,10 @@ public class Prueba {
          String pene;
          for (int i; i < pene ; i++){
              
+             
+             cacaue;
+             
+             
          }
          
      }
