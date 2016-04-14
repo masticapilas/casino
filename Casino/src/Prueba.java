@@ -12,5 +12,9 @@ import java.util.*;
  */
 public class Prueba {
     // Clase pa pruebas
+    
+    public void cosa2(){
+        
+    }
      
 }
