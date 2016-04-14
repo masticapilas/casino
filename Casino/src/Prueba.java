@@ -7,6 +7,7 @@ import javax.swing.JOptionPane;
  * and open the template in the editor.
  */
 
+import java.util.*;
 /**
  *
  * @author alumno
@@ -30,7 +31,7 @@ public class Prueba {
      }
      
      public void asdfasdfasdf(){
-         
+         //cosa
      }
 
      public int pacoVenAClase(int paco){
