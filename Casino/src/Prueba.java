@@ -30,7 +30,7 @@ public class Prueba {
      public int pacoVenAClase(int paco){
      
          if(paco!=0){
-             JOptionPane.showMessageDialog(null, paco, hola, "Ven ya cabron");
+             JOptionPane.showMessageDialog(null, paco, "Ven ya cabron",paco );
          }
          
          
