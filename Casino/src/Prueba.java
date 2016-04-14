@@ -21,6 +21,10 @@ public class Prueba {
      }
      
      public void cosa3(){
+         String pene;
+         for (int i; i < pene ; i++){
+             
+         }
          
      }
 
