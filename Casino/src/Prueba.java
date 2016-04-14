@@ -10,6 +10,6 @@
  */
 public class Prueba {
     
-            
+     private String hola;
 
 }
