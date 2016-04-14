@@ -11,5 +11,9 @@
 public class Prueba {
     
      private String hola;
+     
+     public void cosa(){
+         
+     }
 
 }
