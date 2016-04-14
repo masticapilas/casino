@@ -1,3 +1,6 @@
+
+import javax.swing.JOptionPane;
+
 /*
  * To change this license header, choose License Headers in Project Properties.
  * To change this template file, choose Tools | Templates
@@ -24,4 +27,14 @@ public class Prueba {
          
      }
 
+     public int pacoVenAClase(int paco){
+     
+         if(paco!=0){
+             JOptionPane.showMessageDialog(null, paco, hola, "Ven ya cabron");
+         }
+         
+         
+     return paco;
+     }
+     
 }
