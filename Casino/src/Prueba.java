@@ -15,5 +15,9 @@ public class Prueba {
      public void cosa(){
          
      }
+     
+     public void cosa2(){
+         
+     }
 
 }
