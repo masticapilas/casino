@@ -23,5 +23,9 @@ public class Prueba {
      public void cosa3(){
          
      }
+     
+     public void asdfasdfasdf(){
+         
+     }
 
 }
