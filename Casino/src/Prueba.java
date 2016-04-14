@@ -9,5 +9,5 @@
  * @author alumno
  */
 public class Prueba {
-    
+    public foal o ke.
 }
